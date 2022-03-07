@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=Fixview Theme
+Description=Fixview logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/fixview
+ScriptFile=/usr/share/plymouth/themes/fixview/fixview.script
+Font=Ubuntu 12
+
+[boot-up]
+UseEndAnimation=false
+UseFirmwareBackground=true
